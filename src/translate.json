@@ -1,7 +1,8 @@
 {
 	"en": {
 		"name": "English",
-		"fontFamily": "'Righteous', cursive",
+		"fontFamilySrc": "https://fonts.googleapis.com/css2?family=Righteous&display=swap",
+		"fontFamily": "'Righteous', sans-serif",
 		"translation": {
 			"title": "Material Contact Card",
 			"headline": "Marianne",
@@ -21,6 +22,7 @@
 	},
 	"zh": {
 		"name": "中国人",
+		"fontFamilySrc": "https://fonts.googleapis.com/css2?family=Noto+Serif+SC&display=swap",
 		"fontFamily": "'Noto Serif SC', serif",
 		"translation": {
 			"title": "物料接触卡",
@@ -42,6 +44,7 @@
 	},
 	"th": {
 		"name": "ไทย",
+		"fontFamilySrc": "https://fonts.googleapis.com/css2?family=Mali&display=swap",
 		"fontFamily": "'Mali', cursive",
 		"translation": {
 			"title": "นามบัตร Material",
